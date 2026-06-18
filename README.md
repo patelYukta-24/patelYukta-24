@@ -32,18 +32,6 @@ I am a detail-oriented Professional with 2 years of experience in **Technical Su
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelYukta-24&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
-### 🏆 GitHub Trophies
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=patelYukta-24&theme=tokyonight" alt="Trophies" />
-</p>
-
 ---
 
 ### 🤝 Connect with Me
