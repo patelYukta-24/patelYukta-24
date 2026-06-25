@@ -4,13 +4,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Yukta%20Patel&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Technical%20Support%20Engineer%20%E2%86%92%20DevOps%20%7C%20Cloud%20%7C%20Security&descSize=20&descAlignY=75&descAlign=50)
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=👋+Hey!+I'm+Yukta+Patel+from+Surat%2C+India;🔧+Technical+Support+Engineer+(2%2B+Years);☁️+Learning+AWS+%7C+Azure+%7C+Cloud+Computing;🐳+Exploring+Docker+%7C+Kubernetes+%7C+Terraform;🔐+Security+%26+Compliance+Background;🚀+On+My+Journey+to+DevOps+Engineering)](https://github.com/patelYukta-24)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=👋+Hey!+I'm+Yukta+Patel;🔧+Technical+Support+Engineer+(2%2B+Years);☁️+Learning+AWS+%7C+Azure+%7C+Cloud+Computing;🐳+Exploring+Docker+%7C+Kubernetes+%7C+Terraform;🔐+Security+%26+Compliance+Background;🚀+On+My+Journey+to+DevOps+Engineering)](https://github.com/patelYukta-24)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yukta-patel-511760210)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patelYukta-24)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=patelYukta-24&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/patelYukta-24)
 
 </div>
@@ -23,7 +22,6 @@
 
 ```yaml
 Name       : Yukta Patel
-Location   : Surat, Gujarat, India 🇮🇳
 Role       : Technical Support Engineer
 Experience : 2+ Years in IT Support & Security Compliance
 Focus      : DevOps | Cloud | Security | Automation
@@ -53,7 +51,6 @@ Fun Fact   : "If it's broken, I won't stop until I know WHY" 🔍
 - Maintain **Security Compliance** frameworks
 - Ensure system reliability across onsite & remote envs
 - Work with SIEM tools, patch management & IAM
-- Apply frameworks: **ISO 27001 · NIST · SOC 2**
 
 </td>
 <td width="50%">
@@ -146,15 +143,15 @@ FOUNDATION ───────────────────────
 | [💡 devops-exercises](https://github.com/patelYukta-24/devops-exercises) | Linux, Docker, K8s, AWS, Terraform practice problems | 🔄 Practicing |
 | [🌐 github-for-devops-workshop](https://github.com/patelYukta-24/github-for-devops-workshop) | Git & GitHub for DevOps — hands-on workshop notes | ✅ Done |
 
-### 🔨 Projects (Coming Soon — Building in 2025)
+### 🔨 Projects (Coming Soon — Building in 2026)
 
 | 🚧 Project | 📋 Description | 🗓️ ETA |
 |-----------|----------------|--------|
-| 🐳 Docker Nginx Static Site | Containerize a static website with Nginx + Docker | Aug 2025 |
-| 🔐 Bash Security Audit Script | Shell script to audit Linux server security configs | Aug 2025 |
-| ☁️ AWS S3 + CloudFront Site | Host & deliver static website on AWS | Sep 2025 |
-| 🔁 GitHub Actions CI Pipeline | Auto-build & test pipeline for a sample app | Sep 2025 |
-| 🏗️ Terraform AWS Infrastructure | Provision EC2, VPC, S3 with Terraform | Oct 2025 |
+| 🐳 Docker Nginx Static Site | Containerize a static website with Nginx + Docker | 2026 |
+| 🔐 Bash Security Audit Script | Shell script to audit Linux server security configs | 2026 |
+| ☁️ AWS S3 + CloudFront Site | Host & deliver static website on AWS | 2026 |
+| 🔁 GitHub Actions CI Pipeline | Auto-build & test pipeline for a sample app | 2026 |
+| 🏗️ Terraform AWS Infrastructure | Provision EC2, VPC, S3 with Terraform | 2026 |
 | 🔒 DevSecOps Pipeline | Security scanning integrated in CI/CD | 2026 |
 
 ---
@@ -164,7 +161,7 @@ FOUNDATION ───────────────────────
 ```
                     MY CERTIFICATION JOURNEY
 ─────────────────────────────────────────────────────────────
-  Q3 2025              Q4 2025               2026
+  Q3 2026              Q4 2026               2026
     │                    │                    │
   [🎯 Target]         [🎯 Target]          [🎯 Target]
     │                    │                    │
@@ -254,16 +251,6 @@ Security Background          +       DevOps Learning
 </div>
 
 ---
-
-## 📅 Weekly Learning Log
-
-| 📆 Week | 🛠️ Topic | 📝 What I Did |
-|---------|---------|--------------|
-| Week of Jun 16 | Docker + AWS | Docker Compose multi-container setup; AWS IAM deep dive |
-| Week of Jun 9 | Docker | Wrote first Dockerfile; built & pushed image to Docker Hub |
-| Week of Jun 2 | Docker | Installed Docker; ran first container; learned image vs container |
-| Week of May 26 | Git + GitHub | GitHub Actions basics; set up first workflow |
-| Week of May 19 | Linux | Advanced bash scripting; cron jobs; process management |
 
 ---
 
