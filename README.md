@@ -1,18 +1,16 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,40:1a1a2e,100:16213e&height=200&section=header&text=Yukta%20Patel&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=IT%20Support%20%7C%20Security%20Compliance%20%7C%20Aspiring%20DevOps%20Engineer&descSize=18&descAlignY=74&descAlign=50&fontAlignY=42)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=260&section=header&text=Yukta%20Patel&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=IT%20Support%20%26%20Security%20Compliance%20%20%7C%20%20Aspiring%20DevOps%20%26%20Cloud%20Engineer&descSize=22&descColor=79c0ff&descAlignY=58&descAlign=50)
 
-</div>
+<br/>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=IT+Support+%26+Security+Compliance+Engineer;Learning+AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Security-aware+approach+to+Cloud+%26+DevOps;Documenting+my+hands-on+learning+journey+publicly)](https://github.com/patelYukta-24)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2600&pause=1000&color=79c0ff&center=true&vCenter=true&width=700&lines=IT%20Support%20%26%20Security%20Compliance%20Engineer%3BLearning%20AWS%20%7C%20Docker%20%7C%20Kubernetes%20%7C%20Terraform%3BSecurity-aware%20mindset%20applied%20to%20Cloud%20%26%20DevOps%3BDocumenting%20my%20hands-on%20learning%20journey%20publicly)](https://github.com/patelYukta-24)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yukta-patel-511760210)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patelYukta-24)
-[![Profile Views](https://komarev.com/ghpvc/?username=patelYukta-24&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/patelYukta-24)
+[![Profile Views](https://komarev.com/ghpvc/?username=patelYukta-24&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/patelYukta-24)
 
 </div>
 
@@ -130,14 +128,14 @@ I am currently building hands-on projects as part of my DevOps learning journey.
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=patelYukta-24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelYukta-24&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=patelYukta-24&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelYukta-24&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=patelYukta-24&theme=tokyonight&hide_border=true)](https://github.com/patelYukta-24)
+[![GitHub Streak](https://streak-stats.demolab.com?user=patelYukta-24&theme=github-dark-blue&hide_border=true)](https://github.com/patelYukta-24)
 
 </div>
 
@@ -154,6 +152,6 @@ I am happy to connect with fellow IT professionals, learners, and anyone working
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0F2027&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=130&section=footer)
 
 </div>
