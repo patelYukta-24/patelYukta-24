@@ -1,8 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,40:1a1a2e,100:16213e&height=200&section=header&text=Yukta%20Patel&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=IT%20Support%20%26%20Security%20Compliance%20%7C%20Aspiring%20DevOps%20%26%20Cloud%20Engineer&descSize=18&descAlignY=74&descAlign=50&fontAlignY=42)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,40:1a1a2e,100:16213e&height=200&section=header&text=Yukta%20Patel&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=IT%20Support%20%7C%20Security%20Compliance%20%7C%20Aspiring%20DevOps%20Engineer&descSize=18&descAlignY=74&descAlign=50&fontAlignY=42)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=IT+Support+%26+Security+Compliance+Engineer+%282%2B+Years%29;Learning+AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Security-aware+approach+to+Cloud+%26+DevOps;Documenting+my+hands-on+learning+journey+publicly)](https://github.com/patelYukta-24)
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=IT+Support+%26+Security+Compliance+Engineer;Learning+AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Security-aware+approach+to+Cloud+%26+DevOps;Documenting+my+hands-on+learning+journey+publicly)](https://github.com/patelYukta-24)
 
 <br/>
 
@@ -20,10 +24,10 @@ I am a detail-oriented IT professional with over two years of experience in **Te
 
 | | |
 |---|---|
-| 🏢 **Current Role** | Technical Support & Security Compliance Engineer |
+| 🏢 **Current Role** | Technical Support and Security Compliance Engineer |
 | 🌏 **Location** | India |
-| 🎯 **Career Direction** | Cloud & DevOps Engineering |
-| 💬 **Ask me about** | IT Troubleshooting · Security Compliance · ISO 27001 · NIST |
+| 🎯 **Career Direction** | Cloud and DevOps Engineering |
+| 💬 **Ask me about** | IT Troubleshooting, Security Compliance, ISO 27001, NIST |
 | 🔍 **Approach** | Curious and committed to understanding root causes before implementing solutions |
 
 ---
@@ -39,7 +43,7 @@ I am a detail-oriented IT professional with over two years of experience in **Te
 
 ## 🛠️ Technical Skills
 
-### ✅ Applied in Professional Work
+### Applied in Professional Work
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -50,7 +54,7 @@ I am a detail-oriented IT professional with over two years of experience in **Te
 ![NIST](https://img.shields.io/badge/NIST_Framework-003087?style=for-the-badge&logoColor=white)
 ![SIEM](https://img.shields.io/badge/SIEM_Tools-6A0DAD?style=for-the-badge&logoColor=white)
 
-### 🌱 Currently Learning Through Self-Study
+### Currently Learning Through Self-Study
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -67,10 +71,10 @@ I am a detail-oriented IT professional with over two years of experience in **Te
 | Topic | Current Level | Status |
 |---|---|---|
 | 🐧 Linux and Networking | Practitioner — used daily at work | ✅ Applied |
-| 🔐 Security and Compliance | Practitioner — 2+ years professional experience | ✅ Applied |
+| 🔐 Security and Compliance | Practitioner — 2 plus years professional experience | ✅ Applied |
 | 🌐 Git and GitHub | Comfortable with daily workflows | ✅ Applied |
 | 🐳 Docker | Beginner — learning containers, Dockerfiles, and Compose | 🔄 In progress |
-| ☁️ AWS | Beginner — studying IAM, EC2, S3, and VPC (SAA-C03 prep) | 🔄 In progress |
+| ☁️ AWS | Beginner — studying IAM, EC2, S3, and VPC for SAA-C03 | 🔄 In progress |
 | ⚙️ Kubernetes | Beginner — exploring core concepts and kubectl basics | 🔄 In progress |
 | 🏗️ Terraform | Not yet started — planned next | 📅 Planned |
 | 🔁 GitHub Actions and CI-CD | Not yet started — planned after Terraform | 📅 Planned |
@@ -79,19 +83,19 @@ I am a detail-oriented IT professional with over two years of experience in **Te
 
 ## 📁 Repositories
 
-### 🗒️ My Own Work
+### My Own Work
 
 | Repository | Description |
 |---|---|
 | [IT-Learning-Journal](https://github.com/patelYukta-24/IT-Learning-Journal) | Personal learning notes, lab exercises, and study logs written by me as I progress through DevOps topics |
 | [github-for-devops-workshop](https://github.com/patelYukta-24/github-for-devops-workshop) | Hands-on workshop exercises covering Git and GitHub for DevOps workflows |
 
-### 📚 Study Resources (Forked — Not My Original Work)
+### Study Resources — Forked, Not My Original Work
 
 | Repository | Original Author | How I Use It |
 |---|---|---|
-| [devops-exercises](https://github.com/patelYukta-24/devops-exercises) | [bregman-arie](https://github.com/bregman-arie/devops-exercises) | Practising exercises as part of structured self-study |
-| [DevOps-Roadmap](https://github.com/patelYukta-24/DevOps-Roadmap) | [milanm](https://github.com/milanm/DevOps-Roadmap) | Following this roadmap to organise my learning path |
+| [devops-exercises](https://github.com/patelYukta-24/devops-exercises) | bregman-arie | Practising exercises as part of structured self-study |
+| [DevOps-Roadmap](https://github.com/patelYukta-24/DevOps-Roadmap) | milanm | Following this roadmap to organise my learning path |
 
 > All forked repositories are community resources. Credit belongs to the original authors.
 
@@ -99,7 +103,7 @@ I am a detail-oriented IT professional with over two years of experience in **Te
 
 ## 🔨 Hands-On Projects
 
-I am currently building hands-on projects as part of my DevOps learning journey. The following are planned or in progress:
+I am currently building hands-on projects as part of my DevOps learning journey.
 
 | Project | Description | Status |
 |---|---|---|
@@ -115,7 +119,7 @@ I am currently building hands-on projects as part of my DevOps learning journey.
 
 | Certification | Status |
 |---|---|
-| AWS Certified Solutions Architect – Associate (SAA-C03) | 🔄 Studying |
+| AWS Certified Solutions Architect Associate (SAA-C03) | 🔄 Studying |
 | Docker Certified Associate (DCA) | 📅 Planned |
 | Certified Kubernetes Administrator (CKA) | 📅 Planned |
 | HashiCorp Terraform Associate | 📅 Planned |
