@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,40:1a1a2e,100:16213e&height=200&section=header&text=Yukta%20Patel&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=IT%20Support%20%26%20Security%20Compliance%20%7C%20Aspiring%20DevOps%20%26%20Cloud%20Engineer&descSize=18&descAlignY=74&descAlign=50&fontAlignY=42)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=IT+Support+%26+Security+Compliance+Engineer+(2%2B+Years);Learning+AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Security-aware+approach+to+Cloud+%26+DevOps;Documenting+my+hands-on+learning+journey+publicly)](https://github.com/patelYukta-24)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=IT+Support+%26+Security+Compliance+Engineer+%282%2B+Years%29;Learning+AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Security-aware+approach+to+Cloud+%26+DevOps;Documenting+my+hands-on+learning+journey+publicly)](https://github.com/patelYukta-24)
 
 <br/>
 
@@ -66,14 +66,14 @@ I am a detail-oriented IT professional with over two years of experience in **Te
 
 | Topic | Current Level | Status |
 |---|---|---|
-| 🐧 Linux & Networking | Practitioner — used daily at work | ✅ Applied |
-| 🔐 Security & Compliance | Practitioner — 2+ years professional experience | ✅ Applied |
-| 🌐 Git & GitHub | Comfortable with daily workflows | ✅ Applied |
+| 🐧 Linux and Networking | Practitioner — used daily at work | ✅ Applied |
+| 🔐 Security and Compliance | Practitioner — 2+ years professional experience | ✅ Applied |
+| 🌐 Git and GitHub | Comfortable with daily workflows | ✅ Applied |
 | 🐳 Docker | Beginner — learning containers, Dockerfiles, and Compose | 🔄 In progress |
 | ☁️ AWS | Beginner — studying IAM, EC2, S3, and VPC (SAA-C03 prep) | 🔄 In progress |
-| ⚙️ Kubernetes | Beginner — exploring core concepts and `kubectl` basics | 🔄 In progress |
+| ⚙️ Kubernetes | Beginner — exploring core concepts and kubectl basics | 🔄 In progress |
 | 🏗️ Terraform | Not yet started — planned next | 📅 Planned |
-| 🔁 GitHub Actions / CI-CD | Not yet started — planned after Terraform | 📅 Planned |
+| 🔁 GitHub Actions and CI-CD | Not yet started — planned after Terraform | 📅 Planned |
 
 ---
 
@@ -83,7 +83,7 @@ I am a detail-oriented IT professional with over two years of experience in **Te
 
 | Repository | Description |
 |---|---|
-| [IT-Learning-Journal](https://github.com/patelYukta-24/IT-Learning-Journal) | Personal learning notes, lab exercises, and study logs — written by me as I progress through DevOps topics |
+| [IT-Learning-Journal](https://github.com/patelYukta-24/IT-Learning-Journal) | Personal learning notes, lab exercises, and study logs written by me as I progress through DevOps topics |
 | [github-for-devops-workshop](https://github.com/patelYukta-24/github-for-devops-workshop) | Hands-on workshop exercises covering Git and GitHub for DevOps workflows |
 
 ### 📚 Study Resources (Forked — Not My Original Work)
@@ -103,7 +103,7 @@ I am currently building hands-on projects as part of my DevOps learning journey.
 
 | Project | Description | Status |
 |---|---|---|
-| Docker + Nginx Static Site | Containerise a static website using Docker and Nginx | 🔄 In progress |
+| Docker and Nginx Static Site | Containerise a static website using Docker and Nginx | 🔄 In progress |
 | Bash Security Audit Script | Shell script to check Linux server security configurations | 🔄 In progress |
 | AWS S3 Static Website | Host and deliver a static site using S3 and CloudFront | 📅 Planned |
 | GitHub Actions CI Pipeline | Automated build and test pipeline for a sample application | 📅 Planned |
