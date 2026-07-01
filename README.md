@@ -48,9 +48,9 @@ I am a detail-oriented IT professional with over two years of experience in **Te
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Security Compliance](https://img.shields.io/badge/Security_Compliance-CC0000?style=for-the-badge&logoColor=white)
-![ISO 27001](https://img.shields.io/badge/ISO_27001-007A3D?style=for-the-badge&logoColor=white)
+<!-- ![ISO 27001](https://img.shields.io/badge/ISO_27001-007A3D?style=for-the-badge&logoColor=white)
 ![NIST](https://img.shields.io/badge/NIST_Framework-003087?style=for-the-badge&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM_Tools-6A0DAD?style=for-the-badge&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM_Tools-6A0DAD?style=for-the-badge&logoColor=white) -->
 
 ### Currently Learning Through Self-Study
 
